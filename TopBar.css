@@ -1,0 +1,10 @@
+.heading {
+  overflow: hidden;
+  background-color: #3f51b5;
+}
+
+.heading h1 {
+  color: white;
+  text-align: center;
+
+}

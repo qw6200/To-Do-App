@@ -1,0 +1,14 @@
+
+.heading {
+  overflow: hidden;
+  background-color: #1a9ddd;
+}
+
+.heading a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+  margin-left: 40%;
+  padding: 15px;
+}
