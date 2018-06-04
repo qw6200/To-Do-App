@@ -3,8 +3,37 @@
   background-color: #3f51b5;
 }
 
-.heading h1 {
+.TopNav {
+  padding: 10px;
+  background-color: #3f51b5;
+  overflow: hidden;
+}
+
+.TaskTabs {
+  text-align: center;
+  margin-right: 400px;
+}
+
+.TopNav a {
+  display: inline-block;
   color: white;
   text-align: center;
+  margin-right: 40px;
+  text-decoration: none;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 19px;
+  line-height: 250%;
+}
 
+.TaskTabs a:first-child {
+  padding-right: 30px;
+  border-right: 1px solid white;
+}
+
+a.token-name {
+  line-height: 35pt;
+  float: left;
+  margin-left: 130px;
+  font-size: 30px;
+  font-family: 'Mina', sans-serif;
 }

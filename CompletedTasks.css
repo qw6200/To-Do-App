@@ -1,0 +1,14 @@
+
+.completedContainer {
+    width: 40%;
+    height: 600px;
+    margin: auto;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #e8e9f2;
+}
+.completedContainer h1 {
+    text-align: center;
+    margin-top: 1px;
+    color: #57575b;
+}
